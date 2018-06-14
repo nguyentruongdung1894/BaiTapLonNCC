@@ -1,0 +1,2 @@
+# BaiTapLonNCC
+NCCSOFT intern code
